@@ -1,0 +1,4 @@
+c:\users\cliente\documents\visual studio 2013\Projects\MinhaCalculadora\MinhaCalculadoraWeb.Logica\bin\Debug\MinhaCalculadoraWeb.Logica.dll
+c:\users\cliente\documents\visual studio 2013\Projects\MinhaCalculadora\MinhaCalculadoraWeb.Logica\bin\Debug\MinhaCalculadoraWeb.Logica.pdb
+c:\users\cliente\documents\visual studio 2013\Projects\MinhaCalculadora\MinhaCalculadoraWeb.Logica\obj\Debug\MinhaCalculadoraWeb.Logica.dll
+c:\users\cliente\documents\visual studio 2013\Projects\MinhaCalculadora\MinhaCalculadoraWeb.Logica\obj\Debug\MinhaCalculadoraWeb.Logica.pdb
